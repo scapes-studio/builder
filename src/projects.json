@@ -1,0 +1,622 @@
+{
+    "cryptopunks": {
+        "name": "CryptoPunks",
+        "contract": "0xb47e3cd837dDF8e4c57F05d70Ab865de6e193BBB",
+        "logoUrl": "https://lh3.googleusercontent.com/BdxvLseXcfl57BiuQcQYdJ64v-aI8din7WPk0Pgo3qQFhAUH-B6i-dCqqc_mCkRIzULmwzwecnohLhrcH8A9mpWIZqA7ygc52Sr81hE=s130",
+        "cdnBase": "https://cdn.punkscape.xyz/cryptopunks/sm",
+        "pixel_density": {
+            "width": 24,
+            "height": 24
+        },
+        "tokens": {
+            "from": 0,
+            "to": 9999
+        }
+    },
+    "onedaypunks": {
+        "name": "OneDayPunks",
+        "contract": "0x5537d90a4a2dc9d9b37bab49b490cf67d4c54e91",
+        "logoUrl": "https://lh3.googleusercontent.com/RSSfPjozaYW32-xjRE0cwUaCTr2Wyp9D5g2n-20t-WBVl1XLodLdBm6_Mw-26pVfgFh--XorOKbx8AfJe2KPv_o47orKwrYHVlhCjw=s130",
+        "cdnBase": "https://cdn.punkscape.xyz/onedaypunks/sm",
+        "pixel_density": {
+            "width": 24,
+            "height": 24
+        },
+        "tokens": {
+            "from": 0,
+            "to": 9999
+        }
+    },
+    "moonbirds": {
+        "name": "Moonbirds",
+        "shortName": "Bird",
+        "contract": "0x23581767a106ae21c074b2276d25e5c3e136a68b",
+        "logoUrl": "https://lh3.googleusercontent.com/H-eyNE1MwL5ohL-tCfn_Xa1Sl9M9B4612tLYeUlQubzt4ewhr4huJIR5OLuyO3Z5PpJFSwdm7rq-TikAh7f5eUw338A2cy6HRH75=s130",
+        "cdnBase": "https://nyc3.digitaloceanspaces.com/punkscapes/projects/nfts/proof-moonbirds",
+        "customLogo": "https://nyc3.digitaloceanspaces.com/punkscapes/projects/logos/moonbirds.png",
+        "ogUrl": "https://nyc3.digitaloceanspaces.com/punkscapes/projects/OG/moonbirds.png",
+        "bannerUrl": "https://lh3.googleusercontent.com/ouzjfA0LotbHC92vuDph9JDeg7Z4ZFo12Pr9GJpfSAZSrnXDOubJn0eTvinwzUTPsWhnLLq5ocjcDSrpNV0_MYIjueVJrzFlE6p0=h600",
+        "introVideo": "https://cdn.discordapp.com/attachments/949324596589522984/965952870186901514/moonbirds_teaser.mov",
+        "hashtag": "#moonbirds #moonbirdscapes",
+        "twitter": "moonbirds_xyz",
+        "pixel_density": {
+            "width": 42,
+            "height": 42
+        },
+        "scale": 0.5,
+        "tokens": {
+            "from": 0,
+            "to": 9999
+        }
+    },
+    "nouns": {
+        "name": "Nouns",
+        "shortName": "Noun",
+        "contract": "0x9c8ff314c9bc7f6e59a9d9225fb22946427edc03",
+        "logoUrl": "https://lh3.googleusercontent.com/vfYB4RarIqixy2-wyfP4lIdK6fsOT8uNrmKxvYCJdjdRwAMj2ZjC2zTSxL-YKky0s-4Pb6eML7ze3Ouj54HrpUlfSWx52xF_ZK2TYw=s130",
+        "cdnBase": "https://nyc3.digitaloceanspaces.com/punkscape/projects/nfts/nouns",
+        "customLogo": "https://nyc3.digitaloceanspaces.com/punkscape/projects/logos/nouns.png",
+        "ogUrl": "https://nyc3.digitaloceanspaces.com/punkscape/projects/og/nouns.png",
+        "bannerUrl": "https://nyc3.digitaloceanspaces.com/punkscape/projects/banners/nouns.png",
+        "hashtag": "#nounsbuilds",
+        "twitter": "nounsdao",
+        "pixel_density": {
+            "width": 32,
+            "height": 32
+        },
+        "tokens": {
+            "from": 0,
+            "to": 211
+        }
+    },
+    "boredapeyachtclub": {
+        "name": "Bored Ape Yacht Club",
+        "contract": "0xbc4ca0eda7647a8ab7c2061c2e118a18a936f13d",
+        "logoUrl": "https://lh3.googleusercontent.com/Ju9CkWtV-1Okvf45wo8UctR-M9He2PjILP0oOvxE89AyiPPGtrR3gysu1Zgy0hjd2xKIgjJJtWIc0ybj4Vd7wv8t3pxDGHoJBzDB=s130",
+        "cdnBase": "https://cdn.punkscape.xyz/boredapeyachtclub",
+        "size": {
+            "width": 631,
+            "height": 631
+        },
+        "tokens": {
+            "from": 0,
+            "to": 9999
+        }
+    },
+    "cyberkongz": {
+        "name": "CyberKongz",
+        "shortName": "Kong",
+        "contract": "0x57a204aa1042f6e66dd7730813f4024114d74f37",
+        "logoUrl": "https://lh3.googleusercontent.com/LIpf9z6Ux8uxn69auBME9FCTXpXqSYFo8ZLO1GaM8T7S3hiKScHaClXe0ZdhTv5br6FE2g5i-J5SobhKFsYfe6CIMCv-UfnrlYFWOM4=s130",
+        "cdnBase": "https://cdn.punkscape.xyz/kongz/sm",
+        "customLogo": "https://cdn.punkscape.xyz/projects/logos/cyberkongz.png",
+        "bannerUrl": "https://cdn.punkscape.xyz/projects/banners/cyberkongz.png",
+        "ogUrl": "https://cdn.punkscape.xyz/projects/og/cyberkongz.png",
+        "pixel_density": {
+            "width": 34,
+            "height": 34
+        },
+        "tokens": {
+            "from": 1,
+            "to": 4000
+        },
+        "scale": 0.5
+    },
+    "cryptoadz-by-gremplin": {
+        "name": "CrypToadz by Gremplin",
+        "shortName": "Toadz",
+        "contract": "0x1cb1a5e65610aeff2551a50f76a87a7d3fb649c6",
+        "logoUrl": "https://lh3.googleusercontent.com/iofetZEyiEIGcNyJKpbOafb_efJyeo7QOYnTog8qcQJhqoBU-Vu9l3lXidZhXOAdu6dj4fzWW6BZDU5vLseC-K03rMMu-_j2LvwcbHo=s130",
+        "customLogo": "https://cdn.punkscape.xyz/projects/logos/cryptoadz-by-gremplin.png",
+        "bannerUrl": "https://lh3.googleusercontent.com/fUxEZ8mnuCho4KrCZDVckFz4mSr8QwjpS05SP-Zei2P_rw7N81cBD__0YwWsACd1Y0qLZgvdMPhUmfPe17J51QQjShlmTTXxj2G7-PQ=h600",
+        "ogUrl": "https://nyc3.digitaloceanspaces.com/punkscape/projects/og/cryptoadz.png",
+        "cdnBase": "https://cdn.punkscape.xyz/toadz/sm",
+        "pixel_density": {
+            "width": 36,
+            "height": 36
+        },
+        "scale": 0.5,
+        "tokens": [
+            {
+                "from": 1,
+                "to": 6969
+            },
+            {
+                "from": 1000000,
+                "to": 56000000,
+                "step": 1000000
+            }
+        ]
+    },
+    "moonbirds-at-home": {
+        "name": "Moonbirds At Home",
+        "shortName": "Birds",
+        "contract": "0x4ecd988f2861e479f7eb2e94bbb48709b9a2cb5b",
+        "logoUrl": "https://lh3.googleusercontent.com/X5Fwon0m2Q3ZBazRqHNoeyyGJgZ1_cYdk86rJ99bNDlMn0LdWibQ2Kut2QelqY7d2piu-3qmywF6BaNU4FjoCFT8bC9D-8hlJhofMg=s130",
+        "cdnBase": "https://nyc3.digitaloceanspaces.com/punkscapes/projects/nfts/moonbirds-at-home",
+        "customLogo": "https://nyc3.digitaloceanspaces.com/punkscapes/projects/logos/moonbirds-at-home.png",
+        "ogUrl": "https://nyc3.digitaloceanspaces.com/punkscapes/projects/OG/moonbirds-at-home.png",
+        "bannerUrl": "https://nyc3.digitaloceanspaces.com/punkscapes/projects/banners/moonbirds%20at%20home.png",
+        "hashtag": "#moom #moomscapes",
+        "twitter": "moonbirdsathome",
+        "pixel_density": {
+            "width": 23,
+            "height": 23
+        },
+        "tokens": {
+            "from": 1,
+            "to": 10000
+        }
+    },
+    "smowls": {
+        "name": "Smowls",
+        "shortName": "Smowl",
+        "contract": "0x03b8d129a8f6dc62a797b59aa5eebb11ad63dada",
+        "logoUrl": "https://lh3.googleusercontent.com/3lTot3RNkMSKe7fRiFUb8NVDue7kPmV8vlM3zyl-zDbd3-4PSuRhS1sFDcf3AOCUtD3JrWg1AByh_pY9RAuOvbTtrkUcqW6OJ4L2uA=s130",
+        "cdnBase": "https://nyc3.digitaloceanspaces.com/punkscapes/projects/nfts/smowl",
+        "customLogo": "",
+        "ogUrl": "https://nyc3.digitaloceanspaces.com/punkscapes/projects/OG/smowls.png",
+        "bannerUrl": "https://lh3.googleusercontent.com/ALRIOjXhNR5dYXPC5BuoYXVxZUHbxT5gIwtLUlyj8HOQ-qUbcGYn2v_Pi8sNpLn1_JS8-mYmU0nv7zFSfY1_rfBr_trid5h5tuXdpdc=h600",
+        "hashtag": "#smowlscapes",
+        "twitter": "Darkfarms1",
+        "pixel_density": {
+            "width": 43,
+            "height": 43
+        },
+        "scale": 0.5,
+        "tokens": {
+            "from": 1,
+            "to": 4201
+        }
+    },
+    "cryptodickbutts-s3": {
+        "name": "CryptoDickbutts",
+        "shortName": "Dickbutt",
+        "contract": "0x42069abfe407c60cf4ae4112bedead391dba1cdb",
+        "logoUrl": "https://lh3.googleusercontent.com/vw-gp8yUYkQsxQN5xbHrWEhY7rQWQZhIjgO2tvLxu46VY6iwulwWZt5VFS2Q9gy9qJaiJk8QspZs0qaM9z1ODeIyeUUseABOxdfVrC8=s130",
+        "cdnBase": "https://nyc3.digitaloceanspaces.com/punkscapes/projects/nfts/cryptodickbutts-s3",
+        "customLogo": "https://nyc3.digitaloceanspaces.com/punkscapes/projects/logos/cryptodickbutts.png",
+        "ogUrl": "https://nyc3.digitaloceanspaces.com/punkscapes/projects/OG/dickbutts.png",
+        "bannerUrl": "https://lh3.googleusercontent.com/BKe5JQV60t_ExHygABrea_2-ZrDTanAZng6sGePzffYJHb7OdTw-G8JqTcOqRzYcAZQIHeZbhSbgoYv6ionrwxkFU6Wb9TKdwUWK-g=h600",
+        "hashtag": "#dickscapes #dickbuttscapes",
+        "twitter": "CryptoDickbutts",
+        "pixel_density": {
+            "width": 54,
+            "height": 54
+        },
+        "scale": 0.5,
+        "tokens": {
+            "from": 160,
+            "to": 5360
+        }
+    },
+    "unemployables": {
+        "name": "Unemployables",
+        "shortName": "Unemployable",
+        "contract": "0xe0be388ab81c47b0f098d2030a1c9ef190691a8a",
+        "logoUrl": "https://lh3.googleusercontent.com/7eGLZWftxXPhe9PECTcsV7C9R7ilkPEiOghadQwOruikzSVu-Ds70FGH4QIFKNV4kVr7tADtXDBQpKyhQn0xj6Zlo0N9Rks57nXV=s130",
+        "cdnBase": "https://nyc3.digitaloceanspaces.com/punkscapes/projects/nfts/unemployables",
+        "customLogo": "",
+        "ogUrl": "https://nyc3.digitaloceanspaces.com/punkscapes/projects/OG/unemployables.png",
+        "bannerUrl": "https://lh3.googleusercontent.com/dqKghN8EWHEbUE4mOL9KdCtln6-2rW24G0sE6ydUpQi1PAxNMTGOp1ByWE2S_xjhepGnvscErnhH-i1yV4Nh3aUXnIdhtGUdD24qURw=h600",
+        "hashtag": "#unemployables #unemployablescapes",
+        "twitter": "unemployables",
+        "pixel_density": {
+            "width": 24,
+            "height": 24
+        },
+        "tokens": {
+            "from": 1,
+            "to": 5000
+        }
+    },
+    "eightbitme": {
+        "name": "EightBit Me",
+        "shortName": "8Bit",
+        "contract": "0x6080b6d2c02e9a0853495b87ce6a65e353b74744",
+        "logoUrl": "https://lh3.googleusercontent.com/mgRNPM0zN6K_oUSFb502luUZjK4MsC8UTX6cNIjlwBG7BySnG_j-NSUUHC9g8Y_gd1M5yVGGWfR8-39rAGgk15N1IoBzN4F0JgQ3n_8=s130",
+        "cdnBase": "https://nyc3.digitaloceanspaces.com/punkscapes/projects/nfts/eightbitme",
+        "customLogo": "https://nyc3.digitaloceanspaces.com/punkscapes/projects/logos/eightbitme.png",
+        "ogUrl": "https://nyc3.digitaloceanspaces.com/punkscapes/projects/OG/eightbitme.png",
+        "bannerUrl": "https://nyc3.digitaloceanspaces.com/punkscapes/projects/banners/eightbitme.png",
+        "hashtag": "#8bitscape #eightbitme",
+        "twitter": "eightbit",
+        "pixel_density": {
+            "width": 24,
+            "height": 64
+        },
+        "tokens": {
+            "from": 1,
+            "to": 8888
+        }
+    },
+    "tiny-dinos": {
+        "name": "Tiny Dinos",
+        "shortName": "Dino",
+        "contract": "0xd9b78a2f1dafc8bb9c60961790d2beefebee56f4",
+        "logoUrl": "https://lh3.googleusercontent.com/sTFA4ju5Wkw9xU5Y3gfWWehRfIB0BtW4Sf_z4xnRQrPqt7ChvyrWd6kKNn6sFInyIn91rBOKlYwZA6APr33bj1muz-bXlR6CC1js=s130",
+        "cdnBase": "https://raw.githubusercontent.com/tinydinosnft/tinydinosassets/main/images/dinos/16x16/transparent",
+        "customLogo": "https://nyc3.digitaloceanspaces.com/punkscapes/projects/logos/tiny-dinos.png",
+        "ogUrl": "https://nyc3.digitaloceanspaces.com/punkscapes/projects/OG/tiny-dinos.png",
+        "bannerUrl": "",
+        "hashtag": "#tiny-dino-scapes",
+        "twitter": "tinydinosnft",
+        "pixel_density": {
+            "width": 16,
+            "height": 16
+        },
+        "tokens": {
+            "from": 1,
+            "to": 8131
+        }
+    },
+    "tiny-winged-turtlez": {
+        "name": "Tiny Winged Turtlez",
+        "shortName": "Turtle",
+        "contract": "0x6fe0b5c1ba36c79d9d7dd43f60a3e53e3699c8c0",
+        "cdnBase": "https://nyc3.digitaloceanspaces.com/punkscapes/projects/nfts/tiny-winged-turtlez",
+        "logoUrl": "https://lh3.googleusercontent.com/xvhcxCayeJKPZCm0ZyJasiavhQa5crVZhe57rGdkh2RwOH9BZhh2Oe3ALoPhSJ6UPOGpytwWUd310hMufCek_zcO0yqTRDHTx5yG4A=s130",
+        "customLogo": "https://nyc3.digitaloceanspaces.com/punkscapes/projects/logos/tiny-winged-turtlez.png",
+        "ogUrl": "https://nyc3.digitaloceanspaces.com/punkscapes/projects/OG/tiny-winged-turtlez.png",
+        "bannerUrl": "",
+        "hashtag": "#tiny-winged-scapes",
+        "twitter": "TinyWingedTurtz",
+        "pixel_density": {
+            "width": 24,
+            "height": 24
+        },
+        "tokens": {
+            "from": 1,
+            "to": 1672
+        }
+    },
+    "larva-lads": {
+        "name": "LarvaLads",
+        "shortName": "Lads",
+        "contract": "0x5755ab845ddeab27e1cfce00cd629b2e135acc3d",
+        "logoUrl": "https://lh3.googleusercontent.com/WoWYKPxQFVvI6xXt1LdW4Y85ypVQbZB-K1Guj6FH3bh0EDOLu1Z-qz4kGrBnGQUfh-rHw0mgRmp3-QSee3SIqCs6m-fy5QDpof_Q=s130",
+        "cdnBase": "https://cdn.punkscape.xyz/projects/nfts/larva-lads",
+        "customLogo": "https://cdn.punkscape.xyz/projects/logos/larva-lads.png",
+        "ogUrl": "https://cdn.punkscape.xyz/projects/og/larva-lads.png",
+        "bannerUrl": "https://cdn.punkscape.xyz/projects/banners/larvalads.png",
+        "hashtag": "#ladsbuilds",
+        "twitter": "larvalads",
+        "pixel_density": {
+            "width": 30,
+            "height": 30
+        },
+        "tokens": {
+            "from": 1,
+            "to": 5000
+        },
+        "scale": 0.5
+    },
+    "twobitbears": {
+        "name": "Two Bit Bears",
+        "shortName": "Bear",
+        "contract": "0x8ed25b735a788f4f7129db736fc64f3a241137b8",
+        "logoUrl": "https://lh3.googleusercontent.com/W1SHFavFYaRYbmcPAjGsxg-6Shz_1kXVAojmWnNz3dIFJ9LTB0sV1azF4_DA2vMcpZHHRQQkyn6JjutJlGL16a3mjk7LmUpzwxVy7GI=s130",
+        "bannerUrl": "https://cdn.punkscape.xyz/projects/banners/2bb-banner.png",
+        "customLogo": "https://cdn.punkscape.xyz/projects/logos/twobitbears.png",
+        "ogUrl": "https://cdn.punkscape.xyz/projects/og/twobitbears.png",
+        "cdnBase": "https://cdn.punkscape.xyz/twobitbears/png",
+        "pixel_density": {
+            "width": 5,
+            "height": 10
+        },
+        "tokens": {
+            "from": 0,
+            "to": 4999
+        },
+        "scale": 1,
+        "hashtag": "#bearscapes",
+        "twitter": "TwoBitBears"
+    },
+    "twobitbearsgentwo": {
+        "name": "Two Bit Bears Gen Two",
+        "shortName": "Bear",
+        "contract": "0x488c057cf3dee9ee2e386112e08f2c6d8e58cdfb",
+        "logoUrl": "https://lh3.googleusercontent.com/GTjJvxMTBMlP8uf3-g6ipHU73WUZSeE_gaoshCfoUbLBbPJmQREz8Urj28CaKIHalHevXLFANArruTGZ20m34jpEdCOk3-hett7v=s130",
+        "cdnBase": "https://cdn.punkscape.xyz/projects/nfts/twobitbearsgentwo/twobitbearsgentwo",
+        "bannerUrl": "https://cdn.punkscape.xyz/projects/banners/2bb-banner.png",
+        "customLogo": "https://cdn.punkscape.xyz/projects/logos/twobitbears.png",
+        "ogUrl": "https://cdn.punkscape.xyz/projects/og/twobitbears.png",
+        "tokens": {
+            "from": 0,
+            "to": 921
+        },
+        "scale": 0.5,
+        "hashtag": "#bearscapes",
+        "twitter": "TwoBitBears"
+    },
+    "dystopunks": {
+        "name": "DystoPunks",
+        "contract": "0xbea8123277142de42571f1fac045225a1d347977",
+        "logoUrl": "https://lh3.googleusercontent.com/PLYU9yiTsBDKaCm84jqVS-CEh3k8Cc1b_--I31nB9TDWOuQWVLsnQsgcBGjbeVlAe-wvRAefW2R5Hxe7VoWFudKJPMa1OstQKFH0Kg=s130",
+        "cdnBase": "https://cdn.punkscape.xyz/projects/nfts/dystopunks",
+        "pixel_density": {
+            "width": 24,
+            "height": 24
+        },
+        "tokens": {
+            "from": 0,
+            "to": 2076
+        }
+    },
+    "wandernauts": {
+        "name": "Wandernauts",
+        "shortName": "Nauts",
+        "contract": "0x793daf78b74aadf1eda5cc07a558fed932360a60",
+        "logoUrl": "https://lh3.googleusercontent.com/eb4sx9jFK9EXFjdU5JzwesKvK8wNxHC1hRn5OZ-a08X-U6pglqGHvzlqPDlzTepp7DiBURY-gIfVkNNHjBukKpWO3LNf8lFe62fiLvg=s130",
+        "cdnBase": "https://nyc3.digitaloceanspaces.com/punkscapes/projects/nfts/wandernauts",
+        "customLogo": "",
+        "ogUrl": "",
+        "bannerUrl": "https://lh3.googleusercontent.com/FAVCkWnR0nWIEqVmp6KyASvHVU5Ido866nsZNn2ML-pqe-y1M10TZ8uf0_YFr6CKiW4aIl76NRe4yccz6eT2OE7AeOJqj4cK3jPj5w=h600",
+        "hashtag": "#wanderscapes",
+        "twitter": "wanderers_nft",
+        "size": {
+            "width": 600,
+            "height": 600
+        },
+        "tokens": {
+            "from": 0,
+            "to": 8887
+        },
+        "scale": 0.5
+    },
+    "veefriends": {
+        "name": "VeeFriends",
+        "shortName": "Friends",
+        "contract": "0xa3aee8bce55beea1951ef834b99f3ac60d1abeeb",
+        "logoUrl": "https://lh3.googleusercontent.com/5y-UCAXiNOFXH551w5bWdZEYOCdHPwbqmcKb-xa3uVQEjQgxvih3HtZWSmzqDqd0uk7kIqFrZhw32Gt6xPBFg4t_n9BKhpou-dwnOg=s130",
+        "cdnBase": "https://nyc3.digitaloceanspaces.com/punkscape/projects/nfts/veefriends",
+        "customLogo": "https://nyc3.digitaloceanspaces.com/punkscape/projects/logos/veefriends.png",
+        "ogUrl": "https://nyc3.digitaloceanspaces.com/punkscape/projects/og/veefriends.png",
+        "bannerUrl": "https://nyc3.digitaloceanspaces.com/punkscape/projects/banners/veefriends.png",
+        "hashtag": "#veebuilds",
+        "twitter": "veefriends",
+        "size": {
+            "width": 631,
+            "height": 631
+        },
+        "tokens": {
+            "from": 0,
+            "to": 10019
+        },
+        "scale": 0.5
+    },
+    "goatsoup": {
+        "name": "Goat Soup by Andy Milonakis",
+        "shortName": "Goat Soup",
+        "contract": "0x608c2feb6b80993b26ffb6fa84f454ad3ac38bf0",
+        "logoUrl": "https://lh3.googleusercontent.com/2WRX4MaqZK6ERYSz0GHHRoViHpD8YKTBXDH3aJWMUj65VwCXGmmkDui4_nqkbud1fw6pJ_4Rxn1fEWGtwUB9_Nz8MH75Y_haBZlpxA=s130",
+        "customLogo": "https://cdn.punkscape.xyz/projects/logos/goatsoup.png",
+        "bannerUrl": "https://cdn.punkscape.xyz/projects/banners/goatsoup.png",
+        "cdnBase": "https://cdn.punkscape.xyz/projects/nfts/goatsoup/png",
+        "ogUrl": "https://cdn.punkscape.xyz/projects/og/goatsoup.png",
+        "pixel_density": {
+            "width": 24,
+            "height": 24
+        },
+        "tokens": {
+            "from": 0,
+            "to": 3743
+        },
+        "scale": 0.5
+    },
+    "swampverseofficial": {
+        "name": "Swampverse",
+        "shortName": "Swamper",
+        "contract": "0x95784f7b5c8849b0104eaf5d13d6341d8cc40750",
+        "logoUrl": "https://lh3.googleusercontent.com/QQpvfbD1FjrMsEgzKdq0WjY0PvAfNvmaPtgK9tFc4pdYqlUzQEzUqMVRMN6j-QY2ULU3V5qWD1bwpHqY-Q4zz02Ow_pz_6Qc4ne1mLA=s130",
+        "bannerUrl": "https://lh3.googleusercontent.com/7vwv7YPRGxT7riC_KawSVJSDbjm3_iGdrtrRtp-V-qdPEZglAn-ByIRvAUJrFcyqpfEV_H78pIzBpIOMDJ-_qkQ-1vOFo4ifJBFi=h600",
+        "cdnBase": "https://cdn.punkscape.xyz/projects/nfts/swampverseofficial/swampverseofficial",
+        "ogUrl": "https://cdn.punkscape.xyz/projects/og/swampverseofficial.png",
+        "pixel_density": {
+            "width": 56,
+            "height": 56
+        },
+        "tokens": {
+            "from": 0,
+            "to": 9598
+        },
+        "scale": 0.5,
+        "hashtag": "#swampbuilds",
+        "twitter": "SwampverseNFT"
+    },
+    "chain-runners-nft": {
+        "name": "Chain Runners",
+        "contract": "0x97597002980134bea46250aa0510c9b90d87a587",
+        "logoUrl": "https://lh3.googleusercontent.com/3vScLGUcTB7yhItRYXuAFcPGFNJ3kgO0mXeUSUfEMBjGkGPKz__smtXyUlRxzZjr1Y5x8hz1QXoBQSEb8wm4oBByeQC_8WOCaDON4Go=s130",
+        "bannerUrl": "https://www.chainrunners.xyz/static/key_art.png",
+        "cdnBase": "https://cdn.punkscape.xyz/chain-runners-nft/png",
+        "pixel_density": {
+            "width": 32,
+            "height": 32
+        },
+        "tokens": {
+            "from": 1,
+            "to": 10000
+        },
+        "scale": 0.5
+    },
+    "supducks": {
+        "name": "SupDucks",
+        "contract": "0x3fe1a4c1481c8351e91b64d5c398b159de07cbc5",
+        "logoUrl": "https://lh3.googleusercontent.com/WNd3NNCiOAkD3rUNCau9qXDPQsnH3ZA8PcDMhlsfLnK6J1vSNpJnPFCjA-_l03LbCxwAYC1Mj8IcRQch7YMTDLnn_c-jAQ03RWRdEw=s130",
+        "bannerUrl": "https://lh3.googleusercontent.com/pyqtNJCW06T5RehXpizlWSgedKYP1mX9H7ShZcj_CmHsEJ_RctTXseapiu189O-MQKnMecO8av2XFFmFxMnxj2rLCxCRQCrDyj9XGQ=h600",
+        "cdnBase": "https://cdn.punkscape.xyz/projects/nfts/supducks",
+        "tokens": {
+            "from": 0,
+            "to": 10000
+        }
+    },
+    "pixelfoxes": {
+        "name": "Pixel Foxes",
+        "shortName": "Foxes",
+        "contract": "0x25171b354f3e192ea4fb0c1268255d7a64448c91",
+        "logoUrl": "https://lh3.googleusercontent.com/Yx2biw0I3t87Otn1DxVUxiSXsbySGu4sBhYcpsSWnsEw32HH2ngHHDQpj5HZWOnHjO6iYAzZgJ4LBclDDwVi-6k1Ha1CT2F7qaeh=s130",
+        "customLogo": "https://cdn.punkscape.xyz/projects/logos/pixelfoxes.png",
+        "cdnBase": "https://cdn.punkscape.xyz/pixelfoxes/sm",
+        "bannerUrl": "https://lh3.googleusercontent.com/YFM58ThCVEVrm7zl3zwrVkZIFbp0gYKj5FzowpedaK6lDQPrCiUB_UAQEFUKBjE7yZeqUME12BUfjmG0VZMBJ4fk8hRNmV0rorAluDI=h600",
+        "ogUrl": "https://cdn.punkscape.xyz/projects/og/pixelfoxes.png",
+        "pixel_density": {
+            "width": 24,
+            "height": 24
+        },
+        "tokens": {
+            "from": 0,
+            "to": 9999
+        },
+        "hashtag": "#foxesbuilder",
+        "twitter": "PixelFoxes"
+    },
+    "forgottenruneswizardscult": {
+        "name": "Forgotten Runes Wizards Cult",
+        "shortName": "Wizard",
+        "contract": "0x521f9c7505005cfa19a8e5786a9c3c9c9f5e6f42",
+        "logoUrl": "https://lh3.googleusercontent.com/rfEd3YcRfS8Hk8YcZjD20Vrqu8XTazvnzklVN9pUcROrwhoLO8RbP0yiBQuemgGPpWMgEDGU7qO164x42GRn60Xv6aeFbdZkttzBjx8=s130",
+        "customLogo": "https://nyc3.digitaloceanspaces.com/punkscapes/projects/logos/forgottenruneswizardscult.png",
+        "cdnBase": "https://cdn.punkscape.xyz/forgottenruneswizardscult/sm",
+        "bannerUrl": "https://cdn.punkscape.xyz/forgottenruneswizardscult/banner.png",
+        "ogUrl": "https://nyc3.digitaloceanspaces.com/punkscapes/projects/OG/forgottenruneswizardscult.png",
+        "pixel_density": {
+            "width": 50,
+            "height": 50
+        },
+        "tokens": {
+            "from": 0,
+            "to": 9999
+        }
+    },
+    "anonymice": {
+        "name": "Anonymice",
+        "shortName": "Mouse",
+        "contract": "0xbad6186e92002e312078b5a1dafd5ddf63d3f731",
+        "logoUrl": "https://lh3.googleusercontent.com/308aB5WLnVeBKohs3RrlCwGqGyJuqZCHdWFQNKyGk2JEciYFWK8gYYFHUC8fFESnJbWx9RideuRZseLCzKkVc9jUoOg-xHazbA8cikk=s130",
+        "cdnBase": "https://nyc3.digitaloceanspaces.com/punkscapes/projects/nfts/anonymice",
+        "bannerUrl": "https://nyc3.digitaloceanspaces.com/punkscapes/projects/banners/anonymice.png",
+        "customLogo": "https://nyc3.digitaloceanspaces.com/punkscapes/projects/logos/anonymice.png",
+        "ogUrl": "https://nyc3.digitaloceanspaces.com/punkscapes/projects/OG/anonymice.png",
+        "pixel_density": {
+            "width": 24,
+            "height": 24
+        },
+        "tokens": {
+            "from": 0,
+            "to": 9999
+        }
+    },
+    "ether-orcs": {
+        "name": "EtherOrcs Genesis",
+        "shortName": "Orc",
+        "contract": "0x3abedba3052845ce3f57818032bfa747cded3fca",
+        "logoUrl": "https://lh3.googleusercontent.com/Rqt9abO3ajmblpelJjiWpmoNaIUKrHAJ4TMVicJW_ycx23UeTQgkOQKmqzkhj27k7fbyG0eMZtPpukuNkudv8HCrAxtghqgMkv3wwJ0=s130",
+        "cdnBase": "https://nyc3.digitaloceanspaces.com/punkscapes/projects/nfts/ether-orcs",
+        "bannerUrl": "https://lh3.googleusercontent.com/S_BAPZIdMoPD4YkUyP0nVv8K29JDudeXUFb-C6L164rhWTrsmebInAgXUZEuPaiA7k4GY0U8ZWIa83YxhIUZN2-CoId-85x8pomiXQ=h600",
+        "ogUrl": "https://nyc3.digitaloceanspaces.com/punkscapes/projects/OG/ether-orcs.png",
+        "pixel_density": {
+            "width": 60,
+            "height": 60
+        },
+        "scale": 0.5,
+        "tokens": {
+            "from": 1,
+            "to": 5000
+        }
+    },
+    "surf-punks-nft": {
+        "name": "Surf Punks",
+        "contract": "0xa2aed82a75e36d1dc990a3fbaed3f6cd7b371476",
+        "logoUrl": "https://lh3.googleusercontent.com/v0Mn791AjdBkIGFzSVXsgLEKzKp8C09niRdkYGCUK5ai9FLLq8Zm2nOjiasTMsxJinh244tbYE_iup2ZF0czmU_3JwcP-hU-94dDJQ=s130",
+        "cdnBase": "https://cdn.punkscape.xyz/surf-punks-nft",
+        "bannerUrl": "https://lh3.googleusercontent.com/vztWC-ny-af6S0S6v8S32s-HBomoALgVR7QxezNzWceEmjhGMRmrDq5CEYHmZP5oxXDKn01SQp4HLX--6Ni-Qj10UsdzuNVEo9Pu=h600",
+        "pixel_density": {
+            "width": 32,
+            "height": 32
+        },
+        "tokens": {
+            "from": 1,
+            "to": 499
+        },
+        "scale": 0.5
+    },
+    "omni-mosquitoes-eth": {
+        "name": "Omni Mosquitoes",
+        "shortName": "Mosquito",
+        "contract": "0xdb6fd84921272e288998a4b321b6c187bbd2ba4c",
+        "logoUrl": "https://lh3.googleusercontent.com/Z8AaDOraag4zfpkt3a7EUGORvK9ReU-O_AoJp7mPSeOUozkrXlR-CQAsiT44CdgEXE5MnK09m9sJQKOnubr-kRzNWZSHcaeHTNfL=s130",
+        "cdnBase": "https://raw.githubusercontent.com/OmniMosquitoes/assets/main/images/images_without_bg",
+        "bannerUrl": "https://lh3.googleusercontent.com/vk2NyQvRWewBxb2ouxHCGG68I4N3zH7v2Mbv000Wol8ZnDOTeExuOTgPn0M3ZbjQGq82E3QEvSPVTzoRFYg7UKF-fvIo7Sgm3P-Z=h600",
+        "pixel_density": {
+            "width": 32,
+            "height": 32
+        },
+        "tokens": {
+            "from": 1,
+            "to": 10000
+        },
+        "scale": 0.5
+    },
+    "laid-back-llamas-collection": {
+        "name": "Laid Back Llamas",
+        "shortName": "Llama",
+        "contract": "0x40a0f793ccfd9bc6f2532d06d022be0f978ecbf3",
+        "logoUrl": "https://lh3.googleusercontent.com/IVKMg_EHnxv8ZE_TT1gYhK5lAG3Gbg9KZ8jAU7aRzFlsOshpwBmLXcP1NsYFxWUf4kjKRq95t8htJ1zPIcleybmn8J4Zip3bxNz4=s130",
+        "cdnBase": "https://nyc3.digitaloceanspaces.com/punkscapes/projects/nfts/laid-back-llamas-collection",
+        "bannerUrl": "https://lh3.googleusercontent.com/E3KXsuM2dNuCQ-En-qCkbgSmMn6ZRpEb-4swUb1L8HzPDkQMtAnXMZpla_e4cKOMV66JiQTcvuWgTNUWzjZ5GnpiPBMJAhxfZq4SxQ=h600",
+        "tokens": {
+            "from": 0,
+            "to": 6999
+        }
+    },
+    "wombateam": {
+        "name": "WombaTeam",
+        "shortName": "Wombat",
+        "contract": "0xb82a72453403f350e14b8bf7dcc6fbd045cc0d3c",
+        "logoUrl": "https://lh3.googleusercontent.com/32wiE06QbbOA8Tsx1l-TtcyjT8yH_KaqApUZMuoaR9YCaasVuPKJNnKpC8b_rgm5uvD97pp82CFhuL9hzex4z2NkUbf7Ogf3uTVNn2M=s130",
+        "customLogo": "https://cdn.punkscape.xyz/projects/logos/wombateam.png",
+        "cdnBase": "https://ipfs.io/ipfs/QmQ56RtwcfX1vk5rJLhErMkvvVhvRQW4ME22rvidrMi5Fc",
+        "bannerUrl": "https://lh3.googleusercontent.com/APP-A7wSSPdocOIw1E8jduywgonG4JlccfzLQjUxwo7ATkLNmhjqi-rm-LdErlD4z7YYrE_nFtj2hamRZ7D3jdOcJFAFGAQcW89NKV0=h600",
+        "ogUrl": "https://cdn.punkscape.xyz/projects/og/wombateam.png",
+        "tokens": {
+            "from": 1,
+            "to": 775
+        }
+    },
+    "loopy-donuts": {
+        "name": "Loopy Donuts",
+        "contract": "0x2106c00ac7da0a3430ae667879139e832307aeaa",
+        "logoUrl": "https://lh3.googleusercontent.com/lxasuPHQ00KAn74J8jXffNtp5HRQpI515kyvWhRHbmnbQf2xB8cw-cnNWMjzGqdzPA82xoU23E8udBRCbWV8EZ9eZ5r8MQrQb4HMBw=s130",
+        "cdnBase": "https://cdn.punkscape.xyz/loopy-donuts",
+        "bannerUrl": "https://cdn.loopydonuts.io/site_images/intro-sm.jpeg",
+        "tokens": {
+            "from": 0,
+            "to": 9999
+        }
+    },
+    "sneaky-vampire-syndicate": {
+        "name": "Sneaky Vampire Syndicate",
+        "contract": "0x219b8ab790decc32444a6600971c7c3718252539",
+        "logoUrl": "https://lh3.googleusercontent.com/--7LUBCbLndUydYh3_oeDZD5MMUIDtXyJD-EHy01qkMbrCTTFl9XMLyLsFfcHa7TeN6wR72R9WEnHgDJHjGTMmUaUlJWWZOa1ZsYLQ=s130",
+        "cdnBase": "https://cdn.punkscape.xyz/sneaky-vampire-syndicate",
+        "bannerUrl": "https://svs.gg/img/vampires.png",
+        "tokens": {
+            "from": 1,
+            "to": 8888
+        }
+    },
+    "fast-food-punks": {
+        "name": "Fast Food Punks",
+        "logoUrl": "https://lh3.googleusercontent.com/SIwsJXHU7ZstQVl5i4isZFp60NutUL74Jf24j9YfpFVaUstRDTTgJdqqwk3K_A-MRO2N6wbyUH9tUorFlQ_WUuTNU7A6HJLGjtbQGQ=s130",
+        "cdnBase": "https://cdn.punkscape.xyz/fastfoodpunks/sm",
+        "pixel_density": {
+            "width": 24,
+            "height": 24
+        },
+        "tokens": {
+            "from": 1,
+            "to": 1000
+        }
+    }
+}
