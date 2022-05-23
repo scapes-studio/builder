@@ -27,6 +27,51 @@
             "to": 9999
         }
     },
+    "cyberkongz": {
+        "name": "CyberKongz",
+        "shortName": "Kong",
+        "contract": "0x57a204aa1042f6e66dd7730813f4024114d74f37",
+        "logoUrl": "https://lh3.googleusercontent.com/LIpf9z6Ux8uxn69auBME9FCTXpXqSYFo8ZLO1GaM8T7S3hiKScHaClXe0ZdhTv5br6FE2g5i-J5SobhKFsYfe6CIMCv-UfnrlYFWOM4=s130",
+        "cdnBase": "https://cdn.punkscape.xyz/kongz/sm",
+        "customLogo": "https://cdn.punkscape.xyz/projects/logos/cyberkongz.png",
+        "bannerUrl": "https://cdn.punkscape.xyz/projects/banners/cyberkongz.png",
+        "ogUrl": "https://cdn.punkscape.xyz/projects/og/cyberkongz.png",
+        "pixel_density": {
+            "width": 34,
+            "height": 34
+        },
+        "tokens": {
+            "from": 1,
+            "to": 4000
+        },
+        "scale": 0.5
+    },
+    "cryptoadz-by-gremplin": {
+        "name": "CrypToadz by Gremplin",
+        "shortName": "Toadz",
+        "contract": "0x1cb1a5e65610aeff2551a50f76a87a7d3fb649c6",
+        "logoUrl": "https://lh3.googleusercontent.com/iofetZEyiEIGcNyJKpbOafb_efJyeo7QOYnTog8qcQJhqoBU-Vu9l3lXidZhXOAdu6dj4fzWW6BZDU5vLseC-K03rMMu-_j2LvwcbHo=s130",
+        "customLogo": "https://cdn.punkscape.xyz/projects/logos/cryptoadz-by-gremplin.png",
+        "bannerUrl": "https://lh3.googleusercontent.com/fUxEZ8mnuCho4KrCZDVckFz4mSr8QwjpS05SP-Zei2P_rw7N81cBD__0YwWsACd1Y0qLZgvdMPhUmfPe17J51QQjShlmTTXxj2G7-PQ=h600",
+        "ogUrl": "https://nyc3.digitaloceanspaces.com/punkscape/projects/og/cryptoadz.png",
+        "cdnBase": "https://cdn.punkscape.xyz/toadz/sm",
+        "pixel_density": {
+            "width": 36,
+            "height": 36
+        },
+        "scale": 0.5,
+        "tokens": [
+            {
+                "from": 1,
+                "to": 6969
+            },
+            {
+                "from": 1000000,
+                "to": 56000000,
+                "step": 1000000
+            }
+        ]
+    },
     "moonbirds": {
         "name": "Moonbirds",
         "shortName": "Bird",
@@ -104,51 +149,6 @@
             "from": 0,
             "to": 9999
         }
-    },
-    "cyberkongz": {
-        "name": "CyberKongz",
-        "shortName": "Kong",
-        "contract": "0x57a204aa1042f6e66dd7730813f4024114d74f37",
-        "logoUrl": "https://lh3.googleusercontent.com/LIpf9z6Ux8uxn69auBME9FCTXpXqSYFo8ZLO1GaM8T7S3hiKScHaClXe0ZdhTv5br6FE2g5i-J5SobhKFsYfe6CIMCv-UfnrlYFWOM4=s130",
-        "cdnBase": "https://cdn.punkscape.xyz/kongz/sm",
-        "customLogo": "https://cdn.punkscape.xyz/projects/logos/cyberkongz.png",
-        "bannerUrl": "https://cdn.punkscape.xyz/projects/banners/cyberkongz.png",
-        "ogUrl": "https://cdn.punkscape.xyz/projects/og/cyberkongz.png",
-        "pixel_density": {
-            "width": 34,
-            "height": 34
-        },
-        "tokens": {
-            "from": 1,
-            "to": 4000
-        },
-        "scale": 0.5
-    },
-    "cryptoadz-by-gremplin": {
-        "name": "CrypToadz by Gremplin",
-        "shortName": "Toadz",
-        "contract": "0x1cb1a5e65610aeff2551a50f76a87a7d3fb649c6",
-        "logoUrl": "https://lh3.googleusercontent.com/iofetZEyiEIGcNyJKpbOafb_efJyeo7QOYnTog8qcQJhqoBU-Vu9l3lXidZhXOAdu6dj4fzWW6BZDU5vLseC-K03rMMu-_j2LvwcbHo=s130",
-        "customLogo": "https://cdn.punkscape.xyz/projects/logos/cryptoadz-by-gremplin.png",
-        "bannerUrl": "https://lh3.googleusercontent.com/fUxEZ8mnuCho4KrCZDVckFz4mSr8QwjpS05SP-Zei2P_rw7N81cBD__0YwWsACd1Y0qLZgvdMPhUmfPe17J51QQjShlmTTXxj2G7-PQ=h600",
-        "ogUrl": "https://nyc3.digitaloceanspaces.com/punkscape/projects/og/cryptoadz.png",
-        "cdnBase": "https://cdn.punkscape.xyz/toadz/sm",
-        "pixel_density": {
-            "width": 36,
-            "height": 36
-        },
-        "scale": 0.5,
-        "tokens": [
-            {
-                "from": 1,
-                "to": 6969
-            },
-            {
-                "from": 1000000,
-                "to": 56000000,
-                "step": 1000000
-            }
-        ]
     },
     "moonbirds-at-home": {
         "name": "Moonbirds At Home",
