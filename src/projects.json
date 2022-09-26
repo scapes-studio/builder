@@ -640,5 +640,16 @@
             "from": 1,
             "to": 1000
         }
+    },
+    "sneaks-of-nature": {
+        "name": "Sneaks Of Nature",
+        "contract": "0x2d894a69c3e1f9c5dd01a4070ff63cd3d1b0e986",
+        "logoUrl": "https://i.seadn.io/gcs/files/d62fa28b899e07400591d56e33566a90.gif?auto=format&w=130",
+        "cdnBase": "",
+        "bannerUrl": "https://i.seadn.io/gcs/files/b6bb12ec2ab074165246cd060fe0d974.jpg?auto=format&w=3840",
+        "tokens": {
+            "from": 0,
+            "to": 3332
+        }
     }
 }
